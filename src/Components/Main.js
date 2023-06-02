@@ -9,6 +9,8 @@ const App = () => {
     <Switch>
     <Route path="/projects">
     <Projects />
+    <Route pat="/resme">
+    <Resume />
     </Switch>
     </div>
     </Router>
