@@ -1,0 +1,16 @@
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+/* Additional custom styles */
+/* ... Add your own custom styles here ... */
