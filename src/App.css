@@ -9,7 +9,26 @@ body, h1, p {
   max-width: 960px;
   margin: 0 auto;
   padding: 20px;
+
 }
+
+
+/* app.css */
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+}
+
+/* Additional custom styles */
+/* ... Add your own custom styles here ... */
 
 /* Styling for the navigation menu */
 .navbar {
